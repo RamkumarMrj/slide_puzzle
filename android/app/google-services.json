@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50096842091",
+    "project_id": "fuzzy-blocks",
+    "storage_bucket": "fuzzy-blocks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50096842091:android:1ab93daf46ee2ecf9f182e",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50096842091-tvm0ngt4d1fjj20ibie6311v16jjiofr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5TVoJThYeLfXM8ArLuwbqvqU095KTjNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50096842091-tvm0ngt4d1fjj20ibie6311v16jjiofr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
